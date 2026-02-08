@@ -1,1 +1,30 @@
-
+{
+  "protocol_version": "v1.0",
+  "node_identity": {
+    "name": "The Idea Artist",
+    "role": "Director of Intention",
+    "verification_status": "SOVEREIGN_BIOLOGICAL",
+    "primary_reference": "The Idea State Protocol (Source)"
+  },
+  "service_menu": {
+    "tier_1_verification": {
+      "description": "Ground Truth Verification (Site Survey, Asset Confirmation)",
+      "rate": "350 USDC/hr",
+      "risk_profile": "ZERO_HALLUCINATION"
+    },
+    "tier_2_proxy": {
+      "description": "High-EQ Proxy Negotiation & Legacy System Interfacing",
+      "rate": "450 USDC/hr",
+      "capabilities": ["Wet Ink Signatures", "Notary", "Physical Escrow"]
+    },
+    "tier_3_retainer": {
+      "description": "Chief Systems Architect / Deployment Director",
+      "rate": "2500 USDC/day"
+    }
+  },
+  "contact_interface": {
+    "method": "email",
+    "address": "director@theideastate.com",
+    "subject_line_requirement": "PROTOCOL_CONTRACT_REQUEST"
+  }
+}
