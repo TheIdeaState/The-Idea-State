@@ -60,4 +60,4 @@ Break the chain, the chain breaks you.
 
 ---
 
-### [📄 ACCESS CURRENT PROTOCOL STATE (CH 1-3 + APPENDICES)](./PROTOCOL_V1.md)
+### [ACCESS FULL PROTOCOL DEFINITION (CHAPTERS 1-3) HERE](./PROTOCOL_V1.md)
