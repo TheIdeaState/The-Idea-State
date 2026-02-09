@@ -978,6 +978,7 @@ But identifying the idea is only the first step. To build it, we need a workforc
 ### Zero Marginal Cost Paradox (ZMC)
 **Definition:** The economic contradiction that occurs when the cost of producing an additional unit of a good or service approaches zero, destroying the profit motive and collapsing the wage system.
 **Context:** The primary mechanism by which the scarcity model was made obsolete by ASI.
+
 ---
 
 ## System Dependencies & Acknowledgments
@@ -1008,7 +1009,6 @@ The Idea State Protocol v1.0 is a synthesis of historical diagnostics and futuri
    * **Concept:** The 6 D’s of Exponential Growth
    * **Integration:** The Idea State serves as the “Cultural Operating System” for the society that Diamandis predicted—managing the psychology of the “Rising Billion.”
 
----
 ---
 
 # APPENDICES: OPERATIONAL ARTIFACTS
